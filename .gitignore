@@ -1,0 +1,9 @@
+singbox.json
+singbox-*.json
+
+# folders
+networks/singbox/configs/*.json
+networks/xray/configs/*.json
+
+# let
+networks/xray/config.json
